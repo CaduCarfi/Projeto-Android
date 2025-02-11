@@ -19,4 +19,4 @@ O projeto tem como finalidade o aprimoramento das habilidades em desenvolvimento
 ### Licença
 Este projeto é de caráter educativo e não possui licença comercial.
 
-# 🔗 https://caducarfi.github.io/Projeto-Android/
+# 🔗 https://github.com/CaduCarfi/Projeto-Android
